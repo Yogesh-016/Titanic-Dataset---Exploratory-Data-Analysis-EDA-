@@ -77,6 +77,5 @@ titanic-eda/
 ## Author
 
 **Yogesh S**
-Final-year B.Tech, AI & Data Science, Dhanalakshmi College of Engineering (Anna University)
 GitHub: [Yogesh-016](https://github.com/Yogesh-016)
 LinkedIn: [yogesh-s-617334378](https://linkedin.com/in/yogesh-s-617334378)
